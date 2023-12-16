@@ -16,13 +16,7 @@ This is a simple implementation of the "Find Your Hat" game in Node.js. The game
     cd findYourHat
     ```
 
-3. **Install the required dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-4. **Run the game:**
+3. **Run the game:**
 
     ```bash
     node main.js
