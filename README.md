@@ -19,7 +19,7 @@ This is a simple implementation of the "Find Your Hat" game in Node.js. The game
 3. **Run the game:**
 
     ```bash
-    node main.js
+    node findYourHat.js
     ```
 
 ## Game Rules
